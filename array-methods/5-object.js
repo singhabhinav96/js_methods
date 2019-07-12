@@ -13,3 +13,4 @@ console.log(Object.keys(student));
 delete student.rollno;
 
 // 3. Write a function to get the length of an object.
+Object.keys(student).length;
